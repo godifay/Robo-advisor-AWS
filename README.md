@@ -10,3 +10,6 @@ correct_dialog.txt
 age_error.txt
 incorrect_amount_error.txt
 negative_age_error.txt
+
+### an animated GIF of the working bot
+![Alt text](robochat.gif)
